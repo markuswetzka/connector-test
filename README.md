@@ -1,3 +1,3 @@
 connector-test
 ==============
-Hello
+Hello foo
