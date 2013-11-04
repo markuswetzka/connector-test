@@ -1,1 +1,1 @@
-foo1
+Hello foo. It works well.
