@@ -1,1 +1,1 @@
-This is the same file but modified a little.
+Hello foo. It works.
