@@ -1,1 +1,1 @@
-Hello foo. It works.
+Hello foo. It works well.
