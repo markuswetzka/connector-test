@@ -1,3 +1,0 @@
-connector-test
-==============
-Hello foo
